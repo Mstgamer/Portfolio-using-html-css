@@ -1,0 +1,53 @@
+*{
+    margin: 0%;
+    padding: 0%;   
+}
+nav{
+    background-color: rgb(33, 60, 46);
+    display: flex;
+    justify-content: space-around;
+}
+.hm{
+    background-image: url(hack.jpg);
+    background-size: cover;
+}
+.hm1{
+    color: white;
+
+}
+.abt{
+    background-image: url(abot.jpeg);
+    background-size: cover;
+}
+#abou{
+    color:white;
+}
+.aout{
+    color: white;
+text-align: center;
+margin-top: 6%;
+}
+.cntct{
+    background-image: url(cont.jpg);
+    background-size: cover;
+}
+.sk{
+   background-image: url(picsk.jpg);
+   background-size: cover;
+}
+#txt{
+    color: white;
+    padding: 50px;
+}
+.main a {
+    float: left;
+    padding:10px 15px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(33, 60, 46);
+}
+.main a:hover{background-color: rgb(249, 102, 102);
+}
+.font{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

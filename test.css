@@ -8,7 +8,7 @@ nav{
     justify-content: space-around;
 }
 .hm{
-    background-image: url(hack.jpg);
+    background-image: url(hack1.png);
     background-size: cover;
 }
 .hm1{
@@ -16,16 +16,19 @@ nav{
 
 }
 .abt{
-    background-image: url(abot.jpeg);
+    background-image: url(aboutimg.avif);
     background-size: cover;
 }
 #abou{
     color:white;
 }
 .aout{
-    color: white;
-text-align: center;
-margin-top: 6%;
+    color: rgb(20, 29, 123);
+     
+text-align:center;
+margin-top: 13%;
+padding-left: 4.5rem;
+padding-top: 13rem;
 }
 .cntct{
     background-image: url(cont.jpg);
@@ -50,4 +53,8 @@ margin-top: 6%;
 }
 .font{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    padding-left: 7rem;
+    padding-right: 7rem;
 }
